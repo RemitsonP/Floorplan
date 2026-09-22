@@ -1,0 +1,15 @@
+****************************************
+Report : report_utilization
+Design : ORCA_TOP
+Version: Y-2026.03
+Date   : Wed Sep 16 12:31:26 2026
+****************************************
+Utilization Ratio:			0.6853
+Utilization options:
+ - Area calculation based on:		core_area of block square_upto_powerplan
+ - Categories of objects excluded:	None
+Total Area:				733105.8156
+Total Capacity Area:			733105.8156
+Total Area of cells:			502388.3015
+
+0.6853
